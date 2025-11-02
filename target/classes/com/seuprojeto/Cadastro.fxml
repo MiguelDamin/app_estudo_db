@@ -24,6 +24,11 @@
    <Label text="Email:" />
    <TextField fx:id="txtEmail" promptText="Digite seu email" />
 
+   <Label text="Senha:"/>
+   <PasswordField fx:id="txtSenha" promptText="Digite sua senha" />
+
+   <Label text="Data Cadastro"
+
 
 
    
