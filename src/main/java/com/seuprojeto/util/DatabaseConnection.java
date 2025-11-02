@@ -8,7 +8,7 @@ public class DatabaseConnection {
     public static Connection conectar() {
         try {
             // Informações do banco
-            String url = "jdbc:mysql://localhost:3306/gestaoescola";
+            String url = "jdbc:mysql://localhost:3306/app_estudo_db";
             String usuario = "root";
             String senha = "Miguel11!"; // COLOQUE SUA SENHA DO MYSQL AQUI
             
